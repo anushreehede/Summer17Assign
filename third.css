@@ -1,0 +1,56 @@
+#nav{
+    position: absolute;
+    height: 40px;
+    background-color: darkblue;
+    width:900px;
+}
+
+#logo {
+    position: absolute;
+    top: 4px;
+    left: 4px;
+}
+#search{
+    position: absolute;
+    left: 50px;
+    top: 8px;
+}
+#button{
+    position:absolute;
+    left: 225;
+    top: 4px;
+}
+#dp {
+    position: absolute;
+    left: 500px;
+    top: 1px;
+    width: 175px;
+    color: white;
+}
+#friend{
+    position: absolute;
+    left: 700px;
+    top: 1px;
+}
+#messenger{
+    position: absolute;
+    left: 745px;
+    top: 4px;
+}
+#notif{
+    position: absolute;
+    left: 780px;
+    top: 1px;
+    width: 50px;
+    
+}
+#help{
+    position: absolute;
+    left: 840px;
+    top: 4px;
+}
+#settings{
+    position: absolute;
+    left: 870px;
+    top: 7px;
+}
